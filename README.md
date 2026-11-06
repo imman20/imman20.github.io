@@ -16,8 +16,7 @@ Saya menggunakan HTML dan CSS tanpa framework, build step, atau JavaScript. Semu
 | Retail, net GBP18,93 juta | [README retail](https://github.com/imman20/analisis-penjualan-retail-sql-powerbi/blob/main/README.md) |
 | Survei dan SPC, Cpk 1,071 | [README R](https://github.com/imman20/analisis-survei-dan-eksperimen-r/blob/main/README.md) |
 | Excel, 15 modul, 47 workbook, 327.539 rumus | [README Excel](https://github.com/imman20/portofolio-excel-hr-administrasi/blob/main/README.md) |
-| HR, 1.500 karyawan simulasi, AUC logistic 0,6915 | [README branch HR yang sedang ditinjau](https://github.com/imman20/hr-attrition-analytics/blob/penyempurnaan/analitik-hr/README.md) |
-| Kredit dan asuransi | Saya menandai sebagai pengembangan berikutnya, tanpa angka hasil atau demo yang belum tersedia |
+| HR, 1.500 karyawan simulasi, AUC logistic 0,6915 | [README hr-attrition-analytics](https://github.com/imman20/hr-attrition-analytics/blob/main/README.md) |
 | Situs ini | Saya menautkan repo sumber pada footer dan memakai 0 JavaScript |
 
 Sumber gambar tersimpan di [tools/prepare_assets.py](tools/prepare_assets.py). Saya menggunakan gambar HR dari branch ulasan karena analisisnya belum digabungkan ke main. Setelah PR HR digabungkan, saya mengganti URL sumber HR dan tautan kartu ke main sebelum menghapus branch tersebut. Semua aset yang sudah tersimpan tetap dapat ditampilkan tanpa mengunduh ulang.
