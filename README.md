@@ -17,6 +17,8 @@ Saya menggunakan HTML dan CSS tanpa framework, build step, atau JavaScript. Semu
 | Survei dan SPC, Cpk 1,071 | [README R](https://github.com/imman20/analisis-survei-dan-eksperimen-r/blob/main/README.md) |
 | Excel, 15 modul, 47 workbook, 327.539 rumus | [README Excel](https://github.com/imman20/portofolio-excel-hr-administrasi/blob/main/README.md) |
 | HR, 1.500 karyawan simulasi, AUC logistic 0,6915 | [README hr-attrition-analytics](https://github.com/imman20/hr-attrition-analytics/blob/main/README.md) |
+| Credit risk, German Credit UCI, AUC scorecard 0,765, persetujuan 37,5% | [README credit-risk-scorecard](https://github.com/imman20/credit-risk-scorecard/blob/main/README.md) |
+| Klaim asuransi, freMTPL2 OpenML, rasio prediksi/aktual jumlah klaim 0,96 | [README pemodelan-klaim-asuransi-glm](https://github.com/imman20/pemodelan-klaim-asuransi-glm/blob/main/README.md) |
 | Situs ini | Saya menautkan repo sumber pada footer dan memakai 0 JavaScript |
 
 Sumber gambar tersimpan di [tools/prepare_assets.py](tools/prepare_assets.py). Saya menggunakan gambar HR dari branch ulasan karena analisisnya belum digabungkan ke main. Setelah PR HR digabungkan, saya mengganti URL sumber HR dan tautan kartu ke main sebelum menghapus branch tersebut. Semua aset yang sudah tersimpan tetap dapat ditampilkan tanpa mengunduh ulang.

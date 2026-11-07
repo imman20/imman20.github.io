@@ -12,7 +12,9 @@ SOURCES = {
     "retail.webp": "https://raw.githubusercontent.com/imman20/analisis-penjualan-retail-sql-powerbi/main/assets/dashboard_overview.png",
     "survei.webp": "https://raw.githubusercontent.com/imman20/analisis-survei-dan-eksperimen-r/main/assets/hero.png",
     "excel.webp": "https://raw.githubusercontent.com/imman20/portofolio-excel-hr-administrasi/main/proyek/01_sales_profitability/assets/report.png",
-    "hr.webp": "https://raw.githubusercontent.com/imman20/hr-attrition-analytics/penyempurnaan/analitik-hr/assets/evaluation.png",
+    "hr.webp": "https://raw.githubusercontent.com/imman20/hr-attrition-analytics/main/assets/evaluation.png",
+    "credit.webp": "https://raw.githubusercontent.com/imman20/credit-risk-scorecard/main/assets/evaluation.png",
+    "asuransi.webp": "https://raw.githubusercontent.com/imman20/pemodelan-klaim-asuransi-glm/main/assets/lift.png",
 }
 
 
